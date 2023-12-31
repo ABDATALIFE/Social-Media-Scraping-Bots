@@ -1,0 +1,11 @@
+{
+  "spreadsheet": {"sheet": "Copy of FTR"},
+  "facebook": [{"username":  "Ellygoh4@gmail.com", "password":  "okaynoway12345678"}],
+  "webapi": {"smmfollowers": {"key":  "821bedc943303de0a7ed1c688884f92e"}, "paytosmm":  {"key":  "7b22659f7fbb6266f0b6b343dbfab92b"}},
+  "features": {"followers":true, "likes":true, "view videos":  true, "video post likes":  true},
+   "email": {"sender": {"email":"thisisfuturo@gmail.com", "password": "golovfxxemhlufxk"}, "receiver":"Clicksfamilycontact@gmail.com", "client": "smtp.gmail.com"},
+  "neworder": true,
+  "minAmount": 1,
+  "delay": 5,
+  "networkDelay": 0
+}

@@ -1,0 +1,11 @@
+{
+  "spreadsheet": {"sheet": "Copy of FTR"},
+  "instagram": [{"username":  "deanjames1812", "password":  "Ooi071053!"},{"username":  "amandachuah11", "password":  "Ooi0314475!"},{"username":  "Feliciaotv", "password":  "Ooi071053!"},{"username":  "michstris", "password":  "Ooi0314475!"},{"username":  "runasyahina", "password":  "Ooi071053!"},{"username":  "Faisalasmonn", "password":  "Ooi071053!"}],
+  "webapi": {"smmfollowers": {"key":  "821bedc943303de0a7ed1c688884f92e"}, "paytosmm":  {"key":  "7b22659f7fbb6266f0b6b343dbfab92b"}},
+  "features": {"followers":true, "likes":true, "view videos":  true, "video post likes":  true, "ig save posts":  true, "instagram impression and reach":  true},
+  "email": {"sender": {"email":"thisisfuturo@gmail.com", "password": "golovfxxemhlufxk"}, "receiver":"Clicksfamilycontact@gmail.com", "client": "smtp.gmail.com"},
+  "neworder": true,
+  "minAmount": 1,
+  "delay": 5,
+  "networkDelay": 0
+}

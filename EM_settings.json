@@ -1,0 +1,11 @@
+{
+	"googlesheet": "11/11/22",
+	"email": {
+		"receiver": "",
+		"client": "smtp.gmail.com",
+		"sender": {
+			"email": "thisisfuturo@gmail.com",
+			"password": "golovfxxemhlufxk"
+		}
+	}
+}
